@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*_test.js"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
